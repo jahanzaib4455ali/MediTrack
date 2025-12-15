@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MediTrack 💊
 
 A comprehensive medication tracking and reminder app built with Flutter. MediTrack helps users manage their medications, set reminders, and maintain a complete history of their medication intake.
@@ -141,3 +142,24 @@ Project Link: [https://github.com/yourusername/medi_track_app](https://github.co
 ---
 
 **Note**: This app is for medication tracking purposes only and should not replace professional medical advice. Always consult with healthcare providers for medical decisions.
+=======
+# MediTrack
+
+MediTrack is a Flutter-based medical application developed to help users track, manage, and order medicines in a simple and efficient way.
+
+## Overview
+The application focuses on providing an easy-to-use interface for users who want to search medicines, upload prescriptions, and place orders from their mobile devices.
+
+## Features
+- Online medicine ordering
+- Medicine and health product search
+- Prescription upload support
+- Clean and user-friendly interface
+- Fully responsive Flutter application
+
+## Technology Stack
+- Frontend: Flutter (Dart)
+
+
+## Project Structure
+>>>>>>> f5aabc45ce03aa9c2ffa8f7b3d24676f96c57169
